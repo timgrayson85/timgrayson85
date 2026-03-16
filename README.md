@@ -8,7 +8,7 @@
 
 - 🤖 Building AI-powered tools with [OpenClaw](https://github.com/openclaw/openclaw) on Raspberry Pi
 - 🧠 Learning hands-on with LLMs and autonomous agents
-- 🛠️ Revitalising old projects with modern practices
+- 🛠️ Modernising legacy projects — recently migrated [alertR](https://github.com/timgrayson85/alertR) from MySQL to LowDB
 
 ---
 
