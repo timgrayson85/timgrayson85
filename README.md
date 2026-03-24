@@ -7,8 +7,8 @@
 ### 🚀 What I'm Working On
 
 - 🤖 Building AI-powered tools with [OpenClaw](https://github.com/openclaw/openclaw) on Raspberry Pi
-- 🧠 Learning hands-on with LLMs and autonomous agents
-- 🛠️ Modernising legacy projects — recently migrated [alertR](https://github.com/timgrayson85/alertR) from MySQL to LowDB
+- 🧠 Experimenting with custom GitHub Copilot agents — shared memory, guardrails, team collaboration
+- 🛠️ Modernising legacy projects — recently built a React frontend for [alertR](https://github.com/timgrayson85/alertR)
 
 ---
 
