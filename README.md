@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Tim
+# Hi, I'm Tim
 
 **Software Engineer** | Azure & DevOps | Exploring AI Engineering
 
 ---
 
-### 🚀 What I'm Working On
+### What I'm Working On
 
-- 🤖 Building AI-powered tools with [OpenClaw](https://github.com/openclaw/openclaw) on Raspberry Pi
-- 🧠 Experimenting with custom GitHub Copilot agents — shared memory, guardrails, team collaboration
-- 🛠️ Modernising legacy projects — recently built a React frontend for [alertR](https://github.com/timgrayson85/alertR)
+- Building AI-powered tools with [OpenClaw](https://github.com/openclaw/openclaw) on Raspberry Pi
+- Experimenting with custom GitHub Copilot agents — shared memory, guardrails, team collaboration
+- Modernising legacy projects — recently built a React frontend for [alertR](https://github.com/timgrayson85/alertR)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Cloud & DevOps | Languages | AI & ML |
 |----------------|-----------|---------|
@@ -23,7 +23,7 @@
 
 ---
 
-### 🏠 Homelab
+### Homelab
 
 I run a home lab on Raspberry Pi, experimenting with:
 - Self-hosted AI assistants
@@ -34,13 +34,13 @@ Check out my [homelab repo](https://github.com/timgrayson85/homelab) for setup g
 
 ---
 
-### 📫 Get in Touch
+### Get in Touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/timgrayson85)
-- 📧 timgrayson85@gmail.com
+- [LinkedIn](https://linkedin.com/in/timgrayson85)
+- timgrayson85@gmail.com
 
 ---
 
 <p align="center">
-  <i>Future-proofing my career, one commit at a time 🐧</i>
+  <i>Future-proofing my career, one commit at a time</i>
 </p>
