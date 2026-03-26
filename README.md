@@ -1,6 +1,6 @@
 # Hi, I'm Tim
 
-**Software Engineer** | Azure & DevOps | Exploring AI Engineering
+**Software Engineer** | .NET, Azure & DevOps | Exploring AI Engineering
 
 ---
 
