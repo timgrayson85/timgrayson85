@@ -7,19 +7,36 @@
 ### What I'm Working On
 
 - Building AI-powered tools with [OpenClaw](https://github.com/openclaw/openclaw) on Raspberry Pi
-- Experimenting with custom GitHub Copilot agents — shared memory, guardrails, team collaboration
+- Designing custom GitHub Copilot agents with shared memory and guardrails
 - Modernising legacy projects — recently built a React frontend for [alertR](https://github.com/timgrayson85/alertR)
 
 ---
 
-### Tech Stack
+### AI Engineering
 
-| Cloud & DevOps | Languages | AI & ML |
-|----------------|-----------|---------|
-| Azure | JavaScript/Node.js | OpenClaw |
-| Docker | Python | Ollama |
-| GitHub Actions | TypeScript | LLMs |
-| Kubernetes | SQL | |
+Learning the fundamentals of building with LLMs:
+
+| Concept | What I'm Learning |
+|---------|-------------------|
+| RAG | Retrieval-Augmented Generation — giving agents context beyond their training data |
+| Prompt Engineering | Crafting instructions that produce consistent, useful outputs |
+| Guardrails | Building safety constraints into agent behaviour |
+| Shared Memory | Patterns for team-wide agent knowledge synchronisation |
+| Context Engineering | Loading relevant files and history before agent responds |
+
+---
+
+### Software Engineering
+
+Core skills I work with daily:
+
+| Area | Technologies |
+|------|--------------|
+| Frontend | React, TypeScript |
+| Backend | Node.js, Express |
+| Real-time | Socket.IO, WebSocket |
+| Databases | SQL Server, LowDB |
+| Cloud | Azure, GitHub Actions |
 
 ---
 
@@ -27,8 +44,8 @@
 
 I run a home lab on Raspberry Pi, experimenting with:
 - Self-hosted AI assistants
-- Container orchestration
-- Infrastructure as Code
+- Custom agent architectures
+- Local LLM deployment
 
 Check out my [homelab repo](https://github.com/timgrayson85/homelab) for setup guides and notes.
 
